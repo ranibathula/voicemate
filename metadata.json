@@ -1,0 +1,10 @@
+{
+  "name": "VoiceMate AI",
+  "description": "Modern AI-powered Voice Assistant desktop app featuring voice recognition, natural text-to-speech, NLP intent engine, weather, news, reminders, web launcher, music player, and Python OOP architecture export.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
